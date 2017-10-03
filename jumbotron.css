@@ -8,3 +8,7 @@ body {
 .row_min_margin{
     margin-bottom:-2rem;
 }
+
+.custom_button_width{
+    width: 12em;
+}
