@@ -12,3 +12,9 @@ body {
 .custom_button_width{
     width: 12em;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
