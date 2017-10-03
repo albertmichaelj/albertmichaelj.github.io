@@ -2,3 +2,9 @@
 body {
   /* padding-top: 3.5rem; */
 }
+.jumbotron_min_margin {
+    margin-bottom:1rem;
+}
+.row_min_margin{
+    margin-bottom:-2rem;
+}
